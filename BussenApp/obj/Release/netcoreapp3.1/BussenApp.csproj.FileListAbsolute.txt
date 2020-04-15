@@ -1,0 +1,13 @@
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.csprojAssemblyReference.cache
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.csproj.CoreCompileInputs.cache
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.AssemblyInfoInputs.cache
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.AssemblyInfo.cs
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp.deps.json
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp.runtimeconfig.json
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp.runtimeconfig.dev.json
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp.dll
+/home/hampus/RiderProjects/BussenApp/BussenApp/bin/Release/netcoreapp3.1/BussenApp.pdb
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.dll
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.pdb
+/home/hampus/RiderProjects/BussenApp/BussenApp/obj/Release/netcoreapp3.1/BussenApp.genruntimeconfig.cache

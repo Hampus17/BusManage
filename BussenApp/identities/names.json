@@ -1,0 +1,33 @@
+{
+  "people": [
+    {
+      "name": "Maria",
+      "occupation": "Salesman",
+      "gender": "female"
+    }, 
+    "Anna", 
+    "Eva", 
+    "Sara", 
+    "Kristina", 
+    "Viktoria", 
+    "Johanna", 
+    "Hanna",
+    "Cecilia",
+    "Karin", 
+    "Linda", 
+    "Ida",
+    "Carl",
+    "Mikael",
+    "Oscar",
+    "David",
+    "Olof",
+    "Tommy",
+    "Sebastian",
+    "Marcus",
+    "Gustav",
+    "Patrik",
+    "Erik",
+    "Alexander",
+    "Hugo"
+  ]
+}

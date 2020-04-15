@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/hampus/.dotnet/store/|arch|/|tfm|",
+      "/home/hampus/.nuget/packages"
+    ]
+  }
+}
