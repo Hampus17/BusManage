@@ -38,14 +38,13 @@ namespace BussenApp {
             Console.WriteLine("     [6]  Find age ");
             Console.WriteLine("     [7]  Print genders ");
             Console.WriteLine("     [8]  Sort bus ");
-            Console.WriteLine("     [9]  Poke passenger ");
-            Console.WriteLine("     [10] Passenger getting off ");
+            Console.WriteLine("     [9]  Passenger getting off ");
             Console.WriteLine("     [0]  Exit");
 
             do {
                 Console.Write("Choose a number: ");
                 if (int.TryParse(Console.ReadLine(), out int choice)) {
-                    if (choice >= 0 && choice <= 11 ) { // Because of this we really don't need a default in the switch statement
+                    if (choice >= 0 && choice <= 9 ) { // Because of this we really don't need a default in the switch statement
                         switch (choice) {
                             case 1:
                                 bussen.RegisterPassenger();
@@ -72,14 +71,11 @@ namespace BussenApp {
                                 bussen.SortPassengerList();
                                 break;
                             case 9:
-                                bussen.PokePassenger();
-                                break;
-                            case 10:
                                 bussen.PassengerLeave();
                                 break;
-                            case 11: 
-                                bussen.GeneratePassengers();
-                                break;
+                            //case 10:
+                                // bussen.GeneratePassengers();
+                                // break;
                             case 0:
                                 _isRunning = false;
                                 break;
